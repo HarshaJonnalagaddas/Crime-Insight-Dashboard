@@ -33,11 +33,10 @@ This project integrates publicly available data from the Indian Census and Natio
 ---
 
 ## 📁 Folder Structure  
-├── data/ # Raw datasets (CSV/Excel)
-├── output/ # Processed CSVs and charts
-├── notebooks/ # Jupyter notebooks for analysis
-├── crime_insight_dashboard.py # Core logic (script version)
-├── README.md # This file
+├── data/ datasets (CSV/Excel)
+├── preliminary_eda.ipynb
+├── crime_insight_dashboard.py
+├── README.md
 
 
 ---
